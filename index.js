@@ -17,6 +17,6 @@ function save() {
 };
 
 
-    let userName = "You Son of a Bitch "
+    let userName = "to the Halls of Valhalla! "
     let message = "Welcome Back "
     welcomeEl.innerText = message + userName
